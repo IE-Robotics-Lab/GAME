@@ -1,11 +1,11 @@
 /**
-* Name: triangle_demo
+* Name: triangle
 * Based on the internal empty template. 
 * Author: fheshiki
-* Tags: 
+* Tags:  
 */
 
-model triangle_demo
+model triangle
 
 global {
 	// REAL-WORLD DIMENSIONS FOR LAB SET-UP
