@@ -7,17 +7,7 @@ This repository contains the GAMA models for the GAME project (Additional compon
 3. [OptiTrack ROS Communication Repository](https://github.com/IE-Robotics-Lab/optitrack_ros_communication)
 
 ## Abstract
-This research explores the development of a Tangible User Interface (TUI) designed for gaming purposes. 
-GAME (GrAspable Media Entertainment) is an innovative project that enables users to physically interact with digital gaming elements, bridging
-the gap between the physical and virtual worlds. This is achieved through the integration of multiple technologies, including
-a motion capture system (Optitrack), a short-throw projector (Optoma UHD35STx), and agent-based simulation software
-(GAMA). GAME supports interactive modes like players to compete against each other, offering a more immersive and
-versatile gaming experience than conventional screen-based gaming. Furthermore, GAME leverages blockchain technology,
-specifically the Ripple protocol, to facilitate gameplay actions such as replayability, secure in-game transactions, and tracking
-of player scores. The addition of the blockchain component allows easy game customization, and enhances the overall
-gaming experience. By combining these technologies (e.g., tangible user interfaces and blockchain technology), GAME
-aims to provide novel user interactions with both digital and physical elements, enhancing engagement in future applications
-such as education, training, and entertainment.
+This research explores the development of a Tangible User Interface (TUI) designed for gaming purposes. GAME (GrAspable Media Entertainment) is an innovative project that enables users to physically interact with digital gaming elements, bridging the gap between the physical and virtual worlds. This is achieved through the integration of multiple technologies, including a motion capture system (Optitrack), a short-throw projector (Optoma UHD35STx), and an agent-based simulation software (GAMA). GAME supports interactive gameplay (e.g., Player vs. Player, Player vs. AI), offering a more immersive and versatile gaming experience than conventional screen-based implementations. Furthermore, GAME leverages blockchain technology, specifically the Ripple protocol (i.e., XRPL), to facilitate gameplay actions such as store progress checkpoints, secure in-game transactions, and track player scores. The addition of the blockchain component allows easy game customization, and enhances the overall gaming experience. In conclusion, the combination of tangible user interfaces with blockchain technology can pave the way for future developments in important fields such as education, training, and entertainment where novel interaction methods are paramount.
 
 ## Demo Video
 [IE Robotics Lab YouTube](https://youtu.be/o1hVKjgDzAk)
